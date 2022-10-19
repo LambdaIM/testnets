@@ -6,7 +6,7 @@ Lambda official testnet repo
 
 ## Full nodes and general participants
 
-Follow the instructions on the official documentation to [join the testnet](https://evmos.dev/validators/testnet.html) and how to obtain tokens join the [discord](https://discord.gg/lambdanetwork).
+Follow the instructions on the official documentation to [join the testnet](https://docs.lambda.im/validators/testnet.html) and how to obtain tokens join the [discord](https://discord.gg/lambdanetwork).
 
 ## Genesis File
 
@@ -16,12 +16,12 @@ Verify the SHA256 checksum using:
 
 ```bash
 sha256sum genesis.json
-# a0329465a4e01d5f813a9fe3ab78835fe2d3c91f3b7b77e79405df70eaabab00  genesis.json
+# f5e4f7b88be6e5337c8fae515b5b0cad13e67ff25c0d98e3cb8361ee81fb08e8  genesis.json
 ```
 
 ## Details
 
-- Network Chain ID: `lambdatest_92001-1`
+- Network Chain ID: `lambdatest_92001-2`
 - EIP155 Chain ID: `92001`
 - `lambdavm` version: [`v1.0.0`](https://github.com/LambdaIM/lambdavm/releases)
 - EVM explorer: [explorer.lambda.top](https://explorer.lambda.top)
